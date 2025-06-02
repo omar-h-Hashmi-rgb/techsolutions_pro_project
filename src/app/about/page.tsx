@@ -79,17 +79,17 @@ export default function About() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
               {
-                name: 'Sarah Johnson',
+                name: 'Rahul Sharma',
                 role: 'CEO & Founder',
                 description: 'Former software architect with 10+ years in enterprise solutions',
               },
               {
-                name: 'Michael Chen',
+                name: 'Rohit Jain',
                 role: 'Lead Developer',
                 description: 'Full-stack developer specializing in modern web technologies',
               },
               {
-                name: 'Emily Rodriguez',
+                name: 'Manorama Singh',
                 role: 'Project Manager',
                 description: 'Expert in agile methodologies and client relationship management',
               }
