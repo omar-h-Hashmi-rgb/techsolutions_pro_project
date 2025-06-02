@@ -1,0 +1,13 @@
+# Folders to ignore
+node_modules/
+.next/
+.qodo/
+
+# Logs and system files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+
+# Env files
+.env
